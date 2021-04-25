@@ -1,5 +1,5 @@
 """
-John Doe's Flask API.
+Riana Valenzuela's Flask API.
 """
 from flask import Flask, render_template, send_from_directory, abort
 import config # Configure from .ini files and command line
